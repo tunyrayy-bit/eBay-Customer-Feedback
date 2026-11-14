@@ -1,0 +1,6 @@
+{
+  "name": "eBay Customer Feedback",
+  "description": "Mobile-first customer feedback survey for the eBay shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
